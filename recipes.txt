@@ -5,7 +5,8 @@ pasta.
 khir.
 chicken.
 Dosa
-
+beans.
+pizza.
 
 
 
